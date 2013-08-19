@@ -56,4 +56,3 @@ if ARGV.length == 1 then
   paperbot = Paperbot.new(ARGV[0])
   p paperbot.get_reference  
 end
-
